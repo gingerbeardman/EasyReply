@@ -1,6 +1,8 @@
 # Easy Reply
 
-Modification of existing plugin to fix bugs. 
+Add a Reply Button to each post/comment.  
+
+Modification of existing plugin to fix the following bugs:
 
 - Previously it would stop working if the textarea was edited.  
 - It now uses val() rather than html() to check or modify the textarea contents.  
