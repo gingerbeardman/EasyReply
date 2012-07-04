@@ -2,11 +2,15 @@
 
 Add a Reply Button to each post/comment.  
 
-Modification of existing plugin to fix the following bugs:
+Modification of the existing plugin to fix several bugs:  
 
 - Previously it would stop working if the textarea was edited.  
 - It now uses val() rather than html() to check or modify the textarea contents.  
 - The animate() call has also been changed to work more reliably.
+
+## Changelog
+1.1, modification of the existing plugin to fix several bugs  
+1.0, initial release by andelf  
 
 ## Details
 See [http://vanillaforums.org/addon/easyreply-plugin](http://vanillaforums.org/addon/easyreply-plugin)
